@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<oembed><code>rest_not_logged_in</code><message>The WordPress Rest API has been locked to authorized access only. Log in to use the API.</message><data><status>401</status></data></oembed>

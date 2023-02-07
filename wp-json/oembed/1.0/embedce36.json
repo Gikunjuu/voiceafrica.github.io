@@ -1,0 +1,1 @@
+{"code":"rest_not_logged_in","message":"The WordPress Rest API has been locked to authorized access only. Log in to use the API.","data":{"status":401}}
